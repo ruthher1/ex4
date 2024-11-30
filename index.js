@@ -1,0 +1,3 @@
+const x=()=>{
+    alert("hi")
+}
